@@ -1,2 +1,2 @@
 # Plantilla
- Plantilla que leera un archivo excel para filtrar datos
+ Plantilla con filtro
